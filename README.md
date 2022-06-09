@@ -8,3 +8,5 @@ Miembros:
 - Mario García González
 - Francisco Ramón García Moral
 - Juan Diego Villalobos Quirós
+- Antonio Parra Díaz
+- Juan López de la Calle
